@@ -14,7 +14,7 @@
     <span style="font-size: 20px; ">项目主页</span>
   </a>
        -->
-  <a href="">
+  <a href="https://arxiv.org/abs/2503.06623">
     <span style="font-size: 20px; ">arXiv</span>
   </a>
       
@@ -31,7 +31,7 @@
 
 [![GitHub stars](https://badgen.net/github/stars/walking-shadow/Weather-Latent-Autoencoder)](https://github.com/walking-shadow/Weather-Latent-Autoencoder)
 [![license](https://img.shields.io/badge/license-Apache--2.0-green)](LICENSE)
-[![arXiv](https://img.shields.io/badge/-b31b1b.svg)]()
+[![arXiv](https://img.shields.io/badge/arxiv-2503.06623-b31b1b.svg)](https://arxiv.org/abs/2503.06623)
 
 <!-- [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/KyanChen/RSMamba) -->
 
@@ -95,20 +95,21 @@ data foundation for broader meteorological research
 - [] Open source the Era5-latent dataset
 
 
-<!-- ## Citation
+## Citation
 
 If you are using this project's code or performance benchmarks in your research, please refer to bibtex to reference RSMamba below.
 
 ```
-@misc{zhao2024rsmamba,
-      title={TransformingWeather Data from Pixel to Latent Space}, 
-      author={Sijie Zhao and Hao Chen and Xueliang Zhang and Pengfeng Xiao and Lei Bai and Wanli Ouyang},
-      year={2024},
-      eprint={2404.02668},
+@misc{zhao2025transformingweatherdatapixel,
+      title={Transforming Weather Data from Pixel to Latent Space}, 
+      author={Sijie Zhao and Feng Liu and Xueliang Zhang and Hao Chen and Tao Han and Junchao Gong and Ran Tao and Pengfeng Xiao and Lei Bai and Wanli Ouyang},
+      year={2025},
+      eprint={2503.06623},
       archivePrefix={arXiv},
-      primaryClass={cs.CV}
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2503.06623}, 
 }
-``` -->
+```
 
 ## License
 
