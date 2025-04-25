@@ -46,7 +46,7 @@ English | [简体中文](README_Chinese.md)
 
 ## Introduction
 
-The repository for this project is the code implementation of the paper [TransformingWeather Data from Pixel to Latent Space](ARXIV).
+The repository for this project is the code implementation of the paper [Transforming Weather Data from Pixel to Latent Space](ARXIV).
 
 If you find this project helpful, please give us a star ⭐️.
 
@@ -95,21 +95,6 @@ data foundation for broader meteorological research
 - [] Open source the Era5-latent dataset
 
 
-## Citation
-
-If you are using this project's code or performance benchmarks in your research, please refer to bibtex to reference RSMamba below.
-
-```
-@misc{zhao2025transformingweatherdatapixel,
-      title={Transforming Weather Data from Pixel to Latent Space}, 
-      author={Sijie Zhao and Feng Liu and Xueliang Zhang and Hao Chen and Tao Han and Junchao Gong and Ran Tao and Pengfeng Xiao and Lei Bai and Wanli Ouyang},
-      year={2025},
-      eprint={2503.06623},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2503.06623}, 
-}
-```
 
 ## License
 
