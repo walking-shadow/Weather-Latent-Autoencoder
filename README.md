@@ -10,33 +10,21 @@
 </div>
 <br>
 <div align="center">
-  <!-- <a href="https://kychen.me/RSMamba">
-    <span style="font-size: 20px; ">项目主页</span>
-  </a>
-       -->
-  <a href="https://arxiv.org/abs/2503.06623">
+  <a href="https://arxiv.org/">
     <span style="font-size: 20px; ">arXiv</span>
   </a>
       
   <a href="resources/weather_latent_autoencoder_arxiv.pdf">
     <span style="font-size: 20px; ">PDF</span>
   </a>
-  <!--     
-  <a href="https://huggingface.co/spaces/KyanChen/RSMamba">
-    <span style="font-size: 20px; ">HFSpace</span>
-  </a> -->
 </div>
 <br>
 <br>
 
-[![GitHub stars](https://badgen.net/github/stars/walking-shadow/Weather-Latent-Autoencoder)](https://github.com/walking-shadow/Weather-Latent-Autoencoder)
+[![GitHub stars](https://badgen.net/github)](https://github.com/)
 [![license](https://img.shields.io/badge/license-Apache--2.0-green)](LICENSE)
-[![arXiv](https://img.shields.io/badge/arxiv-2503.06623-b31b1b.svg)](https://arxiv.org/abs/2503.06623)
+[![arXiv](https://img.shields.io/badge/)](https://arxiv.org/)
 
-<!-- [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/KyanChen/RSMamba) -->
-
-<!-- <br>
-<br> -->
 
 <div align="center">
 
@@ -82,10 +70,6 @@ data foundation for broader meteorological research
 </details>
 
 ## Updates
-
-<!-- 🌟 **2024.03.29** Released the RS-Mamba project
-
-🌟 **2024.03.29** Released the code of models and training framwork -->
 
 ## TODO
 
